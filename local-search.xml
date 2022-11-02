@@ -8,7 +8,7 @@
     <link href="/2022/11/02/blog/"/>
     <url>/2022/11/02/blog/</url>
     
-    <content type="html"><![CDATA[<p>这是一条测试消息</p><p><img src="/../../themes/fluid/source/img/%E6%83%85%E4%BE%A3.png" alt="情侣"></p><p><img src="/../img/%E6%83%85%E4%BE%A3.png" alt="情侣"></p>]]></content>
+    <content type="html"><![CDATA[<p>这是一条测试消息</p><p><img src="/../img/%E6%83%85%E4%BE%A3.png" alt="情侣"></p>]]></content>
     
     
     
