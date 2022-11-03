@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>创建一个静态hexo博客</title>
+    <link href="/2022/11/02/%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E9%9D%99%E6%80%81hexo%E5%8D%9A%E5%AE%A2/"/>
+    <url>/2022/11/02/%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E9%9D%99%E6%80%81hexo%E5%8D%9A%E5%AE%A2/</url>
+    
+    <content type="html"><![CDATA[<h1 id="准备阶段"><a href="#准备阶段" class="headerlink" title="准备阶段"></a>准备阶段</h1>]]></content>
+    
+    
+    <categories>
+      
+      <category>经验</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>博客搭建</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>blog</title>
     <link href="/2022/11/02/blog/"/>
     <url>/2022/11/02/blog/</url>
