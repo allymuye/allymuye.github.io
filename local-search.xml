@@ -30,6 +30,31 @@
   
   
   <entry>
+    <title>博客转移</title>
+    <link href="/2022/11/22/%E5%8D%9A%E5%AE%A2%E8%BD%AC%E7%A7%BB/"/>
+    <url>/2022/11/22/%E5%8D%9A%E5%AE%A2%E8%BD%AC%E7%A7%BB/</url>
+    
+    <content type="html"><![CDATA[<h1 id="博客转移"><a href="#博客转移" class="headerlink" title="博客转移"></a>博客转移</h1><ul><li>安装<a href="https://nodejs.org/en/download/">Node.js</a>、<a href="https://git-scm.com/download/">Git</a></li><li>将原来的Blog文件夹复制</li><li>在新的电脑上生成密钥</li></ul><figure class="highlight excel"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs excel">ssh-key -<span class="hljs-built_in">t</span> rsa -C <span class="hljs-string">&quot;muyeyueyue@gmail.com&quot;</span><br></code></pre></td></tr></table></figure><p><img src="/../img/%E5%8D%9A%E5%AE%A2%E8%BD%AC%E7%A7%BB%E7%94%9F%E6%88%90%E5%AF%86%E9%92%A5.png" alt="博客转移生成密钥"></p><ul><li>复制目的地的密钥并上传到github</li><li>安装好git后，在命令行或终端中使用下面的命令可以设置git自己的名字和电子邮件。这是因为Git是分布式版本控制系统，所以，每个机器都必须自报家门：你的名字和Email地址。</li></ul><figure class="highlight stylus"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs stylus">git config <span class="hljs-attr">--global</span> user<span class="hljs-selector-class">.name</span> <span class="hljs-string">&quot;allymuye&quot;</span><br>git config <span class="hljs-attr">--global</span> user<span class="hljs-selector-class">.email</span> <span class="hljs-string">&quot;muyeyueyue@gmail.com@gmail.com&quot;</span><br></code></pre></td></tr></table></figure><ul><li><p>执行hexo三大件</p><figure class="highlight ebnf"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs ebnf"><span class="hljs-attribute">hexo clean</span><br><span class="hljs-attribute">hexo g</span><br><span class="hljs-attribute">hexo d</span><br></code></pre></td></tr></table></figure></li></ul><p>恭喜你完成啦！！！</p><p><img src="/../img/IMG_2800(0).GIF" alt="翻滚小猫"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>经验</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>学习</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>字典配置安装</title>
     <link href="/2022/11/22/%E5%AD%97%E5%85%B8%E9%85%8D%E7%BD%AE%E5%AE%89%E8%A3%85/"/>
     <url>/2022/11/22/%E5%AD%97%E5%85%B8%E9%85%8D%E7%BD%AE%E5%AE%89%E8%A3%85/</url>
