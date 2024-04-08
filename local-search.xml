@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2024/04/09/hello-world/"/>
+    <url>/2024/04/09/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>HTML</title>
+    <link href="/2023/05/24/HTML/"/>
+    <url>/2023/05/24/HTML/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>字典配置安装</title>
+    <link href="/2022/11/22/%E5%AD%97%E5%85%B8%E9%85%8D%E7%BD%AE%E5%AE%89%E8%A3%85/"/>
+    <url>/2022/11/22/%E5%AD%97%E5%85%B8%E9%85%8D%E7%BD%AE%E5%AE%89%E8%A3%85/</url>
+    
+    <content type="html"><![CDATA[<h1 id="字典安装"><a href="#字典安装" class="headerlink" title="字典安装"></a>字典安装</h1><h2 id="配置python环境"><a href="#配置python环境" class="headerlink" title="配置python环境"></a>配置python环境</h2><ul><li><p>打开python环境文件夹</p></li><li><p>创建一个文件夹python2.7</p></li><li><p>双击python-2.7.15.amd64安装 安装在上面这个文件夹下</p></li><li><p>安装完成后添加<strong>环境变量</strong></p></li><li><p>右键我的电脑 选择“属性”  再选择“高级系统设置”</p><p><img src="/../img/%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F1.png" alt="环境变量1"></p></li><li><p>点击<strong>环境变量</strong></p></li><li><p>双击<strong>path</strong></p></li></ul><p><img src="/../img/%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F2.png" alt="环境变量2"></p><p><img src="/../img/%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F3.png" alt="环境变量3"></p><ul><li>选择<strong>新建</strong></li><li>将刚刚创建的文件夹的路径粘贴进去C:\Python27</li></ul><p><img src="/../img/python27.png" alt="python27"></p><ul><li>一次点击确定即可完成</li></ul><p><strong>验证python环境是否安装成功</strong></p><ul><li>win+R打开cmd 输入python</li></ul><p><img src="/../img/python%E5%AE%89%E8%A3%85%E6%88%90%E5%8A%9F.png" alt="python安装成功"></p><ul><li>如果出现跳转应用商店 说明未配置环境 或者环境路径有问题</li></ul><h2 id="安装wxPython"><a href="#安装wxPython" class="headerlink" title="安装wxPython"></a>安装wxPython</h2><ul><li>打开wxPython文件夹 </li><li>安装win64版本 右键以管理员方式运行 依次点击下一步即可</li></ul><h2 id="canfestival字典安装"><a href="#canfestival字典安装" class="headerlink" title="canfestival字典安装"></a>canfestival字典安装</h2><ol><li><p>解压源码文件 出现解压出错是正常情况 不用在意</p></li><li><p>进入源码文件夹找到<strong>objdictgen</strong>文件</p><p><img src="/../img/%E6%89%BE%E5%88%B0objdictgen%E6%96%87%E4%BB%B6.png" alt="找到objdictgen文件"></p></li><li><p>进入objdictgen文件夹 找到<strong>Gnosis_Utils-current.tar.gz</strong>文件</p><p><img src="/../img/%E6%89%BE%E5%88%B0Gnosis_Utils-current%E6%96%87%E4%BB%B6.png" alt="找到Gnosis_Utils-current文件"></p></li><li><p>解压这个文件到当前目录</p><p><img src="/../img/%E8%A7%A3%E5%8E%8B%E6%96%87%E4%BB%B6.png" alt="解压文件"></p></li><li><p>解压完毕</p><p><img src="/../img/%E8%A7%A3%E5%8E%8B%E5%AE%8C%E6%88%90.png" alt="解压完成"></p></li><li><p>进入解压文件夹内 </p><p><img src="/../img/%E5%A4%8D%E5%88%B6gnosis%E6%96%87%E4%BB%B6%E5%A4%B9.png" alt="复制gnosis文件夹"></p></li><li><p>复制文件并粘贴</p><p><img src="/../img/%E7%B2%98%E8%B4%B4%E5%88%B0%E5%90%AB%E6%9C%89%E5%8E%8B%E7%BC%A9%E5%8C%85%E7%9A%84%E6%96%87%E4%BB%B6%E5%A4%B9%E4%B8%8B.png" alt="粘贴到含有压缩包的文件夹下"></p></li><li><p>双击运行</p><p><img src="/../img/%E5%8F%8C%E5%87%BB%E6%89%93%E5%BC%80objdicted.png" alt="双击打开objdicted"></p></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>经验</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>学习</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>创建一个静态hexo博客</title>
+    <link href="/2022/11/02/%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E9%9D%99%E6%80%81hexo%E5%8D%9A%E5%AE%A2/"/>
+    <url>/2022/11/02/%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E9%9D%99%E6%80%81hexo%E5%8D%9A%E5%AE%A2/</url>
+    
+    <content type="html"><![CDATA[<h1 id="准备阶段"><a href="#准备阶段" class="headerlink" title="准备阶段"></a>准备阶段</h1><p><img src="/../img/%E4%BD%9B%E7%B3%BB.gif" alt="佛系"></p><p><img src="/../img/%E7%88%B1%E5%BF%83.GIF" alt="爱心"></p><p><img src="/../img/%E6%8A%B1%E6%8A%B1.GIF" alt="抱抱"></p><p><img src="/../img/%E8%85%BC%E8%85%86.GIF" alt="腼腆"></p><p><img src="/../img/%E5%BF%AB%E9%80%9F%E8%B7%91.GIF" alt="快速跑"></p><p><img src="/../img/%E5%90%90%E8%88%8C%E5%A4%B4.GIF" alt="吐舌头"></p><p><img src="/../img/%E6%91%87%E6%91%86.GIF" alt="摇摆"></p><p><img src="/../img/%E5%97%A6%E9%9B%AA%E7%B3%95.GIF" alt="嗦雪糕"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>经验</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>博客搭建</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>blog</title>
+    <link href="/2022/11/02/blog/"/>
+    <url>/2022/11/02/blog/</url>
+    
+    <content type="html"><![CDATA[<p>这是一条测试消息</p><p><img src="/../img/%E6%83%85%E4%BE%A3.png" alt="情侣"></p><p><img src="/../img/%E6%B5%8B%E8%AF%95.gif" alt="测试"></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
